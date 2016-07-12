@@ -1,0 +1,24 @@
+# Breakfast
+Bacon Biscuit, 2.00
+Sausage Biscuit, 2.00
+Sausage Biscuit with cheese, 2.50
+Bacon Biscuit with cheese, 2.50
+Sausage Biscuit with egg & cheese, 3.50
+Bacon Biscuit with egg & cheese, 3.50
+Bowl of Delta Grind Grits with bacon, 4.99
+Bowl of Delta Grind Grits with sausage, 4.99
+The Clifford, 4.99
+# Lunch
+All American, 4.00
+The Wild Turkey Bandito, 6.50
+Turkey Wrap, 6.00
+The LOLA Burger, 8.00
+Italian Stallion, 9.50
+The Love Child, 6.25
+Ranger Deb!, 11.99
+The Say Dixie and Come to Me, 8.00
+The Young Honey, 9.00
+Bobby's Voodoo Shrimp Po-boy, 11.99
+Mo'Rockin' Ramona, 9.50
+The Harker, 10.00
+The Hippie Trucker, 7.00
