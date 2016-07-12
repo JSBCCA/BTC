@@ -50,7 +50,7 @@ def order_str(order):
 
     >>> order = [({'name': 'coke', 'price': .93}, 3), ({'name': 'chips', 'price': 1.50}, 1)]
     >>> order_str(order)
-    coke, .93, 3; chips, 1.50, 1
+    'coke, .93, 3; chips, 1.50, 1''
     """
     # YOUR CODE HERE
     
