@@ -1,4 +1,5 @@
 MENU_PATH = 'menu.txt'
+TRANSACTIONS_PATH = 'transactions.txt'
 
 def load_menu():
     """ () -> Menu
@@ -26,5 +27,18 @@ def get_order(menu):
     Example Order:
     [ ({'name': 'coke', 'price': .93}, 3),
       ({'name': 'chips', 'price': 1.50}, 1)]
+    """
+    # YOUR CODE HERE
+
+def log_order(order):
+    """ Order -> NoneType
+
+    Writes the order information to the transaction log at `TRANSACTIONS_PATH`
+    Each line in the transaction log should an order.
+    The format for each line is:
+    Name1, Price1, Count1; Name2, Price2, Count2; Name3, Price3, Count3; ...; NameN, PriceN, CountN
+
+    Example Output:
+    coke, .93, 3; chips, 1.50, 1
     """
     # YOUR CODE HERE
