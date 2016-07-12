@@ -42,3 +42,11 @@ def log_order(order):
     coke, .93, 3; chips, 1.50, 1
     """
     # YOUR CODE HERE
+
+def main():
+    menu = load_menu()
+    order = get_order(menu)
+    log_order(order)
+
+if __name__ == '__main__':
+    main()
