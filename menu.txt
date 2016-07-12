@@ -1,14 +1,3 @@
-# Breakfast
-Bacon Biscuit, 2.00
-Sausage Biscuit, 2.00
-Sausage Biscuit with cheese, 2.50
-Bacon Biscuit with cheese, 2.50
-Sausage Biscuit with egg & cheese, 3.50
-Bacon Biscuit with egg & cheese, 3.50
-Bowl of Delta Grind Grits with bacon, 4.99
-Bowl of Delta Grind Grits with sausage, 4.99
-The Clifford, 4.99
-# Lunch
 All American, 4.00
 The Wild Turkey Bandito, 6.50
 Turkey Wrap, 6.00
