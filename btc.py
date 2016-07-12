@@ -16,6 +16,18 @@ def load_menu():
     """
     # YOUR CODE HERE
 
+def print_menu(menu):
+    """ Menu -> NoneType
+
+    Print a description of the menu user.
+
+    Example Output:
+    Menu:
+    coke    @ $0.93
+    chips   @ $1.50
+    """
+    # YOUR CODE HERE
+
 def get_order(menu):
     """ Menu -> Order
 
