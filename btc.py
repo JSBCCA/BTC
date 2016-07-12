@@ -48,7 +48,7 @@ def order_str(order):
     Returns a string representation of an order according to the following format:
     Name1, Price1, Count1; Name2, Price2, Count2; Name3, Price3, Count3; ...; NameN, PriceN, CountN
 
-    >>> order = [({'name': 'coke', 'price': .93}, 3), ({'name': 'chips', 'price': 1.50}, 1)])
+    >>> order = [({'name': 'coke', 'price': .93}, 3), ({'name': 'chips', 'price': 1.50}, 1)]
     >>> order_str(order)
     coke, .93, 3; chips, 1.50, 1
     """
