@@ -6,7 +6,8 @@ def load_menu():
     Loads the menu data stored at `MENU_PATH` and returns
     the constructed menu.
 
-    The Menu is a list of dictionaries.
+    The Menu is a list of MenuItem.
+    Each MenuItem should be a dictionary with a name and price.
 
     Example Menu:
     [ {'name': 'coke', 'price': .93},
